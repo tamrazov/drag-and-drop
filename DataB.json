@@ -1,0 +1,32 @@
+{
+	"data": {
+		"columns": [
+			{
+				"id": "1",
+				"title": "col-1"
+			}
+		],
+		"carts": [
+			{
+				"id": "1",
+				"name": "cart-1",
+				"status": "ready"
+			},
+			{
+				"id": "2",
+				"name": "cart-2",
+				"status": "ready"
+			},
+			{
+				"id": "3",
+				"name": "cart-3",
+				"status": "ready"
+			},
+			{
+				"id": "4",
+				"name": "cart-4",
+				"status": "ready"
+			}
+		]
+	}
+}

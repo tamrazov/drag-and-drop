@@ -1,0 +1,14 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.container-app {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: #fff;
+	height: 500px; /* temporarily */
+	margin: 50px;
+	padding: 10px;
+}
